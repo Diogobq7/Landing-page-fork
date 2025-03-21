@@ -22,12 +22,11 @@ O **Incluses** é um projeto que visa a inclusão da comunidade LGBTQIAPN+ no me
 
 ### Front-end:
 1. Para o Front-end, é necessário que a máquina possua o **Node.js** para rodar o projeto **React**, por meio do **Vite**.
-2. Ao ter o **Node.js** instalado na máquina, o CMD deve ser aberto para a execução dos códigos necessários para a criação do projeto por meio do **Vite**.
 - Você pode obter mais informações sobre a criação de projetos com o Vite clicando [aqui](https://pt.vite.dev/guide/).
-3. Caso o Bootstrap não esteja funcionando na máquina, é necessário instalar a dependência do Bootstrap no React.js. A instalação pode ser realizada por meio do terminal (linha de comando), utilizando o seguinte comando:
+2. Caso o Bootstrap não esteja funcionando na máquina, é necessário instalar a dependência do Bootstrap no React.js. A instalação pode ser realizada por meio do terminal (linha de comando), utilizando o seguinte comando:
 ```npm install react-bootstrap bootstrap```
 - Para mais informações sobre o Boostrap no React.js, clique [aqui](https://react-bootstrap.netlify.app/docs/getting-started/introduction).
-4. Caso o React Router não esteja funcionando na máquina, é necessário instalar a dependência do React Router no React.js. A instalação pode ser realizada por meio do terminal (linha de comando), utilizando o seguinte comando:
+3. Caso o React Router não esteja funcionando na máquina, é necessário instalar a dependência do React Router no React.js. A instalação pode ser realizada por meio do terminal (linha de comando), utilizando o seguinte comando:
 ```npm install react-router-dom```
 
 ### Back-end
